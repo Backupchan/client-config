@@ -1,6 +1,6 @@
 [project]
 name = "backupchan-client-config"
-version = "0.1.0"
+version = "0.1.1"
 description = "Client-side connection configuration library for Backup-chan."
 authors = [
     { name="Moltony", email="koronavirusnyj@gmail.com" }
